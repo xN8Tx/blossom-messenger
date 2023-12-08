@@ -14,7 +14,8 @@ dist-ssr
 *.local
 src/config.ts
 /**/open.txt
-storybook-stat
+.loki
+storybook-static
 
 # Editor directories and files
 .vscode/*
