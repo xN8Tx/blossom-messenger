@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import * as mimeTypes from 'mime-types';
-import { errorLogManager } from '../../libs/database/dist';
+import { errorLogManager } from 'database';
 
 import { HTTP_URL, UPLOAD_FOLDER } from '../constant';
 
